@@ -1,0 +1,9 @@
+.exit{
+    padding: 7px;
+    width: 38px;
+}
+
+.exit:hover{
+    cursor: pointer;
+    color:#dfdfdf !important;
+}
